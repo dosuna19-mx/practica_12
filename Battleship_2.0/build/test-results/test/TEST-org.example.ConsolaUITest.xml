@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ConsolaUITest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-15T02:37:43.006Z" hostname="DESKTOP-C95BT3B" time="0.099">
+  <properties/>
+  <testcase name="obtenerDisparoJugador()" classname="org.example.ConsolaUITest" time="0.058"/>
+  <testcase name="obtenerOpcionModo()" classname="org.example.ConsolaUITest" time="0.008"/>
+  <testcase name="mostrarMensaje_muestraCorrectamente()" classname="org.example.ConsolaUITest" time="0.006"/>
+  <testcase name="solicitarIP()" classname="org.example.ConsolaUITest" time="0.004"/>
+  <testcase name="solicitarNombre()" classname="org.example.ConsolaUITest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
